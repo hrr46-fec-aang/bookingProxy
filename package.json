@@ -1,0 +1,22 @@
+{
+  "name": "bookingproxy",
+  "version": "1.0.0",
+  "description": "Booking module for making reservation (proxy server)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./proxyserver/server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrr46-fec-aang/newBookingproxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrr46-fec-aang/newBookingproxy/issues"
+  },
+  "homepage": "https://github.com/hrr46-fec-aang/newBookingproxy#readme",
+  "devDependencies": {
+  }
+}
